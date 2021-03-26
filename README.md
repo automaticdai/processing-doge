@@ -8,7 +8,7 @@ Programmed with Processing.
 
 ## Road Map
 
-- [ ] Interact with mouse
+- [x] Interact with mouse
 - [ ] Interact with Leap Motion
 - [ ] Interact with web camera (person tracking)
 
