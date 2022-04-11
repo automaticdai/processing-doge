@@ -6,7 +6,7 @@ This interactive program makes doge alive.
 
 Programmed with Processing.
 
-Video demo: https://www.bilibili.com/video/BV1CK4y1T7D5
+Demo video: https://www.bilibili.com/video/BV1CK4y1T7D5
 
 ## Road Map
 
@@ -16,3 +16,5 @@ Video demo: https://www.bilibili.com/video/BV1CK4y1T7D5
 
 ![doge](doge.png)
 
+## License
+MIT License
